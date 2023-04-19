@@ -15,7 +15,7 @@ I have created many projects like Restaurant website,Job portal,etc and ready to
 <p align="left" >
 <a href="https://www.linkedin.com/in/hmanshu-rathi-5882b9208/" target="blank"><img align="center" src="https://img.icons8.com/color/256/linkedin-2.png" alt="Himanshu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/the_himanshu_rathi/" target="blank"><img align="center" src="https://www.businessinsider.in/photo/92523546/best-apps-for-instagram-hashtags-and-captions.jpg?imgsize=25672" alt="the_himanshu_rathi" height="30" width="40" /></a>
- <a href="mailto:himanshu25rathi" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" height="30" width="40" /></a>
+ <a href="mailto:himanshu25rathi@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
